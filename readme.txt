@@ -7,6 +7,8 @@ open opencvinpc.py
 change ip address for esp8266 and esp32cam(available in the mobile hotspot information)
 run opencvinpc.py
 
+yolov3.weights can be downloaded from the official website
+
 working:
 esp32cam-----> opencv code -----> esp8266 ----> controls led
 	  (person detected/not)
